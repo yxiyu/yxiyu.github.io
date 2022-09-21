@@ -3,11 +3,11 @@
   <title>熙羽`博客</title>
   
   <subtitle>生活明朗 万物可爱</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://yxiyu.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://yxiyu.github.io/"/>
   <updated>2022-09-21T14:45:05.170Z</updated>
-  <id>http://example.com/</id>
+  <id>https://yxiyu.github.io/</id>
   
   <author>
     <name>熙羽</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="https://yxiyu.github.io/posts/4a17b156.html"/>
+    <id>https://yxiyu.github.io/posts/4a17b156.html</id>
     <published>2022-09-21T14:18:44.848Z</published>
     <updated>2022-09-21T14:45:05.170Z</updated>
     
