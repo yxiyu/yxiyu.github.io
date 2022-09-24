@@ -4,7 +4,16 @@
   <url>
     <loc>https://yxiyu.github.io/posts/dfb8a81f.html</loc>
     
-    <lastmod>2022-09-22</lastmod>
+    <lastmod>2022-09-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yxiyu.github.io/posts/5160bc96.html</loc>
+    
+    <lastmod>2022-09-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +40,7 @@
 
   <url>
     <loc>https://yxiyu.github.io/</loc>
-    <lastmod>2022-09-22</lastmod>
+    <lastmod>2022-09-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
