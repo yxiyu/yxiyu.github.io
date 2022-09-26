@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://yxiyu.github.io/posts/dfb8a81f.html</loc>
+    <loc>https://yxiyu.github.io/manifest.json</loc>
     
-    <lastmod>2022-09-24</lastmod>
+    <lastmod>2022-09-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yxiyu.github.io/posts/c9970ee4.html</loc>
+    
+    <lastmod>2022-09-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yxiyu.github.io/posts/71513ccb.html</loc>
+    
+    <lastmod>2022-09-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +31,7 @@
   <url>
     <loc>https://yxiyu.github.io/posts/5160bc96.html</loc>
     
-    <lastmod>2022-09-24</lastmod>
+    <lastmod>2022-09-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,16 +40,7 @@
   <url>
     <loc>https://yxiyu.github.io/posts/33b4e017.html</loc>
     
-    <lastmod>2022-09-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://yxiyu.github.io/manifest.json</loc>
-    
-    <lastmod>2022-09-21</lastmod>
+    <lastmod>2022-09-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,12 +49,47 @@
 
   <url>
     <loc>https://yxiyu.github.io/</loc>
-    <lastmod>2022-09-24</lastmod>
+    <lastmod>2022-09-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>https://yxiyu.github.io/tags/vue/</loc>
+    <lastmod>2022-09-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yxiyu.github.io/tags/HTML-CSS/</loc>
+    <lastmod>2022-09-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yxiyu.github.io/tags/Nodejs/</loc>
+    <lastmod>2022-09-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://yxiyu.github.io/categories/web%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2022-09-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yxiyu.github.io/categories/Nodejs/</loc>
+    <lastmod>2022-09-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
