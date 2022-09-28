@@ -1,0 +1,27 @@
+  /* tags样式 */
+  #card-tags .card-tag-cloud a {
+    color: #363636 !important;
+    font-size: 1.05rem !important;
+    border-radius: 8px;
+    display: inline-block;
+    margin-right: 4px;
+  }
+  #aside-content .card-tag-cloud a:hover {
+    background:  #8ba6e854;
+    border-radius: 8px;
+    color: #fff !important;
+    font-weight: 700;
+    box-shadow: 0 5px 12px -5px rgba(102, 68, 68, 0.05);
+  }
+  @media screen and (min-width: 1300px) {
+    #aside-content .card-tag-cloud a:hover {
+      transform: scale(1.03);
+    }
+    #aside-content .card-tag-cloud a:active {
+      transform: scale(0.97);
+    }
+  }
+  #aside-content .card-tag-cloud a sup {
+    opacity: .4;
+    margin-left: 2px;
+  }
