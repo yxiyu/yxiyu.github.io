@@ -4,7 +4,16 @@
   <url>
     <loc>https://yxiyu.github.io/manifest.json</loc>
     
-    <lastmod>2022-09-28</lastmod>
+    <lastmod>2022-10-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yxiyu.github.io/tags/index.html</loc>
+    
+    <lastmod>2022-10-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,16 +22,7 @@
   <url>
     <loc>https://yxiyu.github.io/posts/71513ccb</loc>
     
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://yxiyu.github.io/posts/c9970ee4</loc>
-    
-    <lastmod>2022-09-28</lastmod>
+    <lastmod>2022-10-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +31,7 @@
   <url>
     <loc>https://yxiyu.github.io/posts/71513ccb</loc>
     
-    <lastmod>2022-09-28</lastmod>
+    <lastmod>2022-10-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +40,7 @@
   <url>
     <loc>https://yxiyu.github.io/posts/5160bc96</loc>
     
-    <lastmod>2022-09-28</lastmod>
+    <lastmod>2022-10-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +49,7 @@
   <url>
     <loc>https://yxiyu.github.io/posts/b92db53e</loc>
     
-    <lastmod>2022-09-28</lastmod>
+    <lastmod>2022-10-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,7 +58,16 @@
   <url>
     <loc>https://yxiyu.github.io/posts/100e8d77</loc>
     
-    <lastmod>2022-09-28</lastmod>
+    <lastmod>2022-10-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yxiyu.github.io/posts/c9970ee4</loc>
+    
+    <lastmod>2022-10-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -67,7 +76,16 @@
   <url>
     <loc>https://yxiyu.github.io/posts/33b4e017</loc>
     
-    <lastmod>2022-09-28</lastmod>
+    <lastmod>2022-10-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yxiyu.github.io/categories/index.html</loc>
+    
+    <lastmod>2022-10-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -76,43 +94,43 @@
 
   <url>
     <loc>https://yxiyu.github.io/</loc>
-    <lastmod>2022-09-28</lastmod>
+    <lastmod>2022-10-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://yxiyu.github.io/tags/vue/</loc>
-    <lastmod>2022-09-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://yxiyu.github.io/tags/HTML-CSS/</loc>
-    <lastmod>2022-09-28</lastmod>
+    <lastmod>2022-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yxiyu.github.io/tags/JS/</loc>
-    <lastmod>2022-09-28</lastmod>
+    <lastmod>2022-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yxiyu.github.io/tags/Less/</loc>
-    <lastmod>2022-09-28</lastmod>
+    <lastmod>2022-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yxiyu.github.io/tags/vue/</loc>
+    <lastmod>2022-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yxiyu.github.io/tags/Nodejs/</loc>
-    <lastmod>2022-09-28</lastmod>
+    <lastmod>2022-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -121,21 +139,28 @@
   
   <url>
     <loc>https://yxiyu.github.io/categories/Git/</loc>
-    <lastmod>2022-09-28</lastmod>
+    <lastmod>2022-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://yxiyu.github.io/categories/web%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2022-09-28</lastmod>
+    <loc>https://yxiyu.github.io/categories/Vue/</loc>
+    <lastmod>2022-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yxiyu.github.io/categories/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80/</loc>
+    <lastmod>2022-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yxiyu.github.io/categories/Nodejs/</loc>
-    <lastmod>2022-09-28</lastmod>
+    <lastmod>2022-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
